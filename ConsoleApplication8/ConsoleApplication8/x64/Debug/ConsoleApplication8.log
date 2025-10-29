@@ -1,0 +1,6 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\stask\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stask\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stask\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stask\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(74,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\stask\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
